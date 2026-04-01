@@ -1,0 +1,21 @@
+=== Gemini 3.1 Pro Benchmark ===
+Timestamp:      2026-03-19 10:18:18.117772
+Total time:     143.560 sec
+Output chars:   3405
+Chars/sec:      23.72
+------------------
+
+--- Output Text ---
+To truly understand the revolutionary nature of quantum computing, we must first look at the conventional device you are using right now. Classical computers, whether an everyday smartphone or a massive supercomputer, process all information using basic bits. A bit is binary, existing as either a zero or a one. It is like a light switch: strictly off or on. Traditional classical systems solve problems by linearly flipping billions of these tiny switches in an ordered sequence.
+
+Quantum computers, however, rewrite the entire rulebook of processing by harnessing the bizarre laws of subatomic physics. Instead of bits, they use advanced qubits (quantum bits). While a classical bit is strictly zero or one, a qubit can exist as zero, one, or both simultaneously. This strange phenomenon is called superposition. Imagine flipping a coin. While it spins in the air, it is not just heads or tails; it is a mathematical blur of both. Only when it finally lands does it choose a definite state. Superposition allows quantum computers to process a vast number of possibilities at the exact same time, rather than evaluating them one by one.
+
+The second core principle is entanglement. In the quantum realm, qubits can become inextricably linked together. If you change the state of one entangled qubit, the other instantly changes to match it, regardless of the physical distance between them. In computing, entanglement means that adding more qubits exponentially increases the machine’s raw processing power. While twenty classical bits represent twenty pieces of information, twenty entangled qubits can represent over a million distinct values simultaneously.
+
+However, having millions of possibilities is useless if you cannot find the correct answer. This is where interference comes in. Quantum algorithms cleverly manipulate the wavelike probabilities of qubits. Much like noise-canceling headphones use sound waves to cancel out background noise, quantum computers use interference to cancel out incorrect pathways and amplify the correct probability. When the system is measured, the quantum state collapses, cleanly leaving behind the precise solution.
+
+Why does this matter? Quantum computers are not meant to replace your everyday laptop. They are designed specifically to solve highly complex problems that would take classical supercomputers millennia to crack. They will revolutionize modern medicine by simulating complex molecular structures to discover lifesaving drugs in days instead of decades. Furthermore, they could optimize global supply chains, invent highly efficient battery materials to combat climate change, and crack the cryptographic codes that currently secure the internet.
+
+Despite this immense potential, building these machines is incredibly difficult. Qubits are highly fragile. The slightest temperature fluctuation or electromagnetic noise can cause decoherence, making them lose their fragile quantum state and abruptly crash the calculation. Consequently, they must be stored in specialized refrigerators colder than deep space.
+
+Quantum computing is still in its infancy, slowly transitioning from theoretical physics to practical engineering. Once perfectly realized, it will not just compute faster; it will finally allow humanity to solve problems that are currently impossible, unlocking the universe's deepest secrets and reshaping our technological future.

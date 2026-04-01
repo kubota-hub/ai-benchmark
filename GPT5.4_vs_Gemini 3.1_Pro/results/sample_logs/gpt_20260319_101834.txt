@@ -1,0 +1,25 @@
+=== GPT-5.4 Benchmark ===
+Timestamp:      2026-03-19 10:18:34.187661
+Total time:     15.038 sec
+Output chars:   3381
+Chars/sec:      224.84
+------------------
+
+--- Output Text ---
+Quantum computing is a new kind of computing based on the rules of quantum physics, which describes how matter and energy behave at very small scales, like atoms and electrons. Unlike classical computers, which process information using bits that are either 0 or 1, quantum computers use quantum bits, or qubits.
+
+A qubit is special because it can exist in a combination of 0 and 1 at the same time. This property is called superposition. You can imagine a classical bit like a light switch that is either off or on, while a qubit is more like a spinning coin that is not just heads or tails until it lands. Superposition allows quantum computers to represent many possible states at once.
+
+Another important quantum property is entanglement. When qubits become entangled, the state of one qubit is linked to the state of another, even if they are far apart. This connection allows quantum computers to coordinate information in ways classical computers cannot. Entanglement helps enable powerful computations across many qubits simultaneously.
+
+Quantum computers also rely on interference. Because qubits behave like waves, their probability amplitudes can combine. Useful answers can be amplified, while wrong answers can cancel each other out. Quantum algorithms are carefully designed to use interference so that measuring the final qubits is more likely to produce the correct result.
+
+These features do not mean quantum computers are simply faster at everything. In fact, for most everyday tasks, classical computers remain more practical and efficient. Quantum computers are best suited for specific problems where quantum effects can be used advantageously. One famous example is factoring large numbers. Shor’s algorithm shows that a sufficiently powerful quantum computer could factor numbers much faster than known classical methods, which has major implications for modern encryption. Another example is Grover’s algorithm, which can speed up searching unsorted data.
+
+Quantum computing may also be especially useful for simulating molecules and materials. Since chemistry itself follows quantum rules, quantum computers could model chemical reactions, drug interactions, and new materials more naturally than classical machines. This could lead to advances in medicine, energy storage, and industrial design.
+
+Building a useful quantum computer is extremely difficult. Qubits are fragile and easily disturbed by heat, vibration, or electromagnetic noise. This causes errors and loss of quantum information, a problem called decoherence. To address this, engineers use error correction, specialized hardware, and extremely controlled environments, often at temperatures near absolute zero.
+
+Today’s quantum computers are still in an early stage. They have limited numbers of qubits, short coherence times, and relatively high error rates. Researchers sometimes call this era the NISQ era, meaning Noisy Intermediate-Scale Quantum. Even so, progress is steady, and governments, universities, and technology companies are investing heavily in the field.
+
+In short, quantum computing is a radically different approach to computation that uses superposition, entanglement, and interference to solve certain problems in powerful new ways. While it is not yet a replacement for classical computing, it could become a transformative tool for science, security, and technology.
